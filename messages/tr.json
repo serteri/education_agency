@@ -1,0 +1,567 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetlerimiz",
+    "schools": "Okullar",
+    "languageSchools": "Dil Okulları",
+    "tafe": "TAFE / Kolejler",
+    "universities": "Üniversiteler",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "guides": "Rehberler",
+    "tools": "Araçlar",
+    "compare": "Karşılaştır",
+    "budgetPlanner": "Bütçe Hesaplayıcı",
+    "pathwayPlanner": "Eğitim Yol Haritası",
+    "startJourney": "Yolculuğunuza Başlayın"
+  },
+  "hero": {
+    "badge": "🇦🇺 Brisbane, Albion'da Yerleşik",
+    "title": "Avustralya'da Eğitime",
+    "titleHighlight": "Yerinden Başlayın",
+    "subtitle": "Brisbane'de fiziksel ofisimizle, sizi Avustralya eğitim yolculuğunuzun her adımında destekliyoruz. Doğru okul seçiminden yerleşim sürecine kadar yanınızdayız.",
+    "cta": "Ücretsiz Danışmanlık Al",
+    "ctaSecondary": "Hizmetlerimizi Keşfedin",
+    "stats": {
+      "students": "500+",
+      "studentsLabel": "Mutlu Öğrenci",
+      "schools": "50+",
+      "schoolsLabel": "Partner Okul",
+      "years": "10+",
+      "yearsLabel": "Yıllık Deneyim"
+    }
+  },
+  "featuredSchools": {
+    "badge": "En Çok Tercih Edilenler",
+    "title": "Öne Çıkan",
+    "titleHighlight": "Üniversiteler",
+    "subtitle": "Akademik mükemmellik arayan uluslararası öğrenciler için özenle seçilmiş, Avustralya'nın en prestijli ve yüksek sıralamalı üniversitelerini keşfedin.",
+    "viewAll": "Tüm Üniversiteleri Gör"
+  },
+  "aboutSummary": {
+    "title": "Avustralya'daki Yerel Partneriniz",
+    "description": "EduBrisbane sadece uzaktan danışmanlık sağlayan bir acente değildir. Brisbane, Albion'daki fiziksel ofisimizle sahada, yüz yüze destek sunuyoruz. Havalimanı karşılamadan konaklama bulmaya ve banka hesabı açılışına kadar her adımda yanınızdayız.",
+    "readMore": "Hikayemizin Tamamını Oku"
+  },
+  "services": {
+    "sectionBadge": "Hizmetlerimiz",
+    "title": "Eğitim Yolculuğunuzu",
+    "titleHighlight": "Birlikte Planlayalım",
+    "subtitle": "İhtiyaçlarınıza en uygun eğitim programını bulmanızda size rehberlik ediyoruz.",
+    "elicos": {
+      "title": "Dil Okulları (ELICOS)",
+      "description": "Avustralya'nın en iyi dil okullarında İngilizce öğrenin. Genel İngilizce'den IELTS hazırlığına kadar geniş program yelpazesi.",
+      "features": [
+        "Genel İngilizce",
+        "IELTS / PTE Hazırlık",
+        "Akademik İngilizce",
+        "Esnek Başlangıç Tarihleri"
+      ]
+    },
+    "vet": {
+      "title": "Mesleki Eğitim (VET)",
+      "description": "Avustralya'da kariyer odaklı mesleki eğitim programlarıyla iş dünyasına hazırlanın. Staj imkanlarıyla desteklenen pratik eğitim.",
+      "features": [
+        "Ticari Aşçılık",
+        "Bilgi Teknolojileri",
+        "İşletme Yönetimi",
+        "İnşaat ve Ticaret"
+      ]
+    },
+    "university": {
+      "title": "Üniversite Geçiş Yolları",
+      "description": "Avustralya'nın prestijli üniversitelerine giden yollarda size rehberlik ediyoruz. Foundation programlarından lisansüstü eğitime kadar.",
+      "features": [
+        "Foundation Programları",
+        "Diploma Pathways",
+        "Lisans Programları",
+        "Yüksek Lisans"
+      ]
+    },
+    "learnMore": "Detaylı Bilgi"
+  },
+  "localAdvantage": {
+    "badge": "Yerel Avantajınız",
+    "title": "Brisbane'de",
+    "titleHighlight": "Sahada Yanınızdayız",
+    "subtitle": "Uzaktan danışmanlık değil, Brisbane Albion'daki ofisimizde yüz yüze destek. Avustralya'ya vardığınız andan itibaren yanınızdayız.",
+    "features": {
+      "arrival": {
+        "title": "Havalimanı Karşılama",
+        "description": "Brisbane havalimanında sizi karşılıyor, ilk gününüzden itibaren yanınızda oluyoruz."
+      },
+      "accommodation": {
+        "title": "Konaklama Desteği",
+        "description": "Güvenli ve uygun fiyatlı konaklama seçenekleri bulmanızda yardımcı oluyoruz."
+      },
+      "banking": {
+        "title": "Banka & Telefon Kurulumu",
+        "description": "Banka hesabı açma, telefon hattı alma gibi ilk günlerdeki işlerden sizi kurtarıyoruz."
+      },
+      "ongoing": {
+        "title": "Sürekli Destek",
+        "description": "Eğitim süreciniz boyunca akademik ve kişisel konularda destek sağlıyoruz."
+      }
+    }
+  },
+  "form": {
+    "badge": "Başvuru",
+    "title": "Yolculuğunuza",
+    "titleHighlight": "Bugün Başlayın",
+    "subtitle": "Bilgilerinizi bırakın, eğitim danışmanlarımız sizinle en kısa sürede iletişime geçsin.",
+    "step1": "Kişisel Bilgiler",
+    "step2": "İngilizce Seviyeniz",
+    "step3": "Kurs Tercihi",
+    "nameLabel": "Adınız Soyadınız",
+    "namePlaceholder": "Örn: Ahmet Yılmaz",
+    "emailLabel": "E-posta Adresiniz",
+    "emailPlaceholder": "ornek@email.com",
+    "phoneLabel": "Telefon Numaranız",
+    "phonePlaceholder": "+90 5XX XXX XX XX",
+    "englishLevel": "İngilizce Seviyeniz (Öz Değerlendirme)",
+    "levels": {
+      "beginner": "Başlangıç - Hiç bilmiyorum veya çok az biliyorum",
+      "elementary": "Temel - Basit cümleleri anlayabiliyorum",
+      "intermediate": "Orta - Günlük konuşmaları sürdürebiliyorum",
+      "upperIntermediate": "Orta-Üst - Akıcı konuşabiliyorum",
+      "advanced": "İleri - Akademik düzeyde iletişim kurabiliyorum"
+    },
+    "courseType": "Tercih Ettiğiniz Kurs Türü",
+    "courses": {
+      "elicos": "Dil Okulu (ELICOS)",
+      "vet": "Mesleki Eğitim (VET)",
+      "university": "Üniversite",
+      "unsure": "Henüz Emin Değilim"
+    },
+    "next": "Sonraki Adım",
+    "prev": "Önceki Adım",
+    "submit": "Başvurumu Gönder",
+    "success": "Başvurunuz alındı! En kısa sürede sizinle iletişime geçeceğiz.",
+    "errors": {
+      "nameRequired": "Lütfen adınızı girin",
+      "emailRequired": "Lütfen e-posta adresinizi girin",
+      "emailInvalid": "Geçerli bir e-posta adresi girin",
+      "phoneRequired": "Lütfen telefon numaranızı girin",
+      "levelRequired": "Lütfen İngilizce seviyenizi seçin",
+      "courseRequired": "Lütfen kurs türünü seçin"
+    }
+  },
+  "footer": {
+    "description": "Brisbane, Albion merkezli eğitim danışmanlığı ajansı. Avustralya'da eğitim hayalinizi gerçeğe dönüştürüyoruz.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contactUs": "İletişim",
+    "legal": "Yasal",
+    "address": "Albion, Brisbane QLD 4010, Avustralya",
+    "disclaimer": "Biz eğitim danışmanıyız. Göçmenlik tavsiyeleri yalnızca bağımsız, MARA kayıtlı iş ortaklarımız aracılığıyla sunulmaktadır.",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfService": "Kullanım Koşulları",
+    "rights": "Tüm hakları saklıdır.",
+    "abn": "ABN: XX XXX XXX XXX",
+    "qeac": "QEAC Sertifikalı"
+  },
+  "schoolPages": {
+    "languageSchools": {
+      "title": "Dil Okulları (ELICOS)",
+      "subtitle": "Kariyerinizi ilerletmek veya daha ileri düzey eğitimlere hazırlanmak için Avustralya'daki en iyi İngilizce dil okullarını keşfedin.",
+      "intro": "Avustralya'da İngilizce öğrenmek sadece dil becerisi değil, aynı zamanda kültürel bir deneyimdir. Anlaşmalı ELICOS okullarımız, akıcılığınızı hızla geliştirirken küresel bir arkadaş ağı kurabileceğiniz etkileşimli öğrenme ortamları sunar. Genel İngilizce, IELTS hazırlığı veya Akademik düzeye kadar her ihtiyaca uygun program mevcuttur."
+    },
+    "tafe": {
+      "title": "TAFE ve Kariyer Kolejleri",
+      "subtitle": "Partner mesleki kurumlarımız ve TAFE kolejleri sayesinde pratik ve kariyere yönelik beceriler kazanın.",
+      "intro": "Avustralya'nın VET (Mesleki Eğitim) sektörü, tamamen uygulamalı ve sektöre yönelik yaklaşımıyla dünyaca ünlüdür. TAFE ve özel meslek okulları, işverenlerin tam olarak talep ettiği teknik becerilerle sizi donatır. Ticari Aşçılık, Otomotiv, Bilişim Topolojisi veya Hemşirelik gibi yollar tamamen gerçek dünya yeterliliği inşa etmeye odaklanır."
+    },
+    "universities": {
+      "title": "Üniversite Kataloğu",
+      "subtitle": "Avustralya'nın önde gelen üniversitelerinde dünya standartlarındaki lisans ve lisansüstü programlarını inceleyin.",
+      "intro": "Avustralya üniversitelerinden alınan bir diploma prestijlidir ve dünya çapında tanınır. Kapsamlı kataloğumuzda elit 'Group of Eight' üyesi araştırma kurumlarının yanı sıra dünyanın en yenilikçi modern üniversiteleri de yer almaktadır. Hedeflerinize en uygun kampüs dokusunu, yetkinliği ve bütçeyi bulmak için aşağıdaki dizinimizi inceleyebilirsiniz."
+    },
+    "card": {
+      "location": "Konum",
+      "featuredCourses": "Öne Çıkan Kurslar",
+      "getDetails": "Detaylı Bilgi Al",
+      "localChoice": "Yerel Seçim",
+      "assessmentLevel": "Vize AL",
+      "startingFrom": "Başlayan Fiyatlarla",
+      "weekly": "/ hafta"
+    },
+    "filters": {
+      "all": "Tümü",
+      "generalEnglish": "Genel İngilizce",
+      "examPrep": "Sınav Hazırlık (IELTS/PTE)",
+      "eveningClasses": "Akşam Sınıfları",
+      "business": "İş İngilizcesi",
+      "academic": "Akademik",
+      "baristaHospitality": "Barista / Konaklama",
+      "tradeCourses": "Mesleki Eğitim (Trade)",
+      "itBusiness": "Bilişim ve İşletme",
+      "healthCommunity": "Sağlık ve Toplum Hizmetleri"
+    },
+    "workingRights": {
+      "title": "Avustralya'da Yasal Çalışma İzni (ESOS Act)",
+      "description": "Öğrenci vizesine sahip uluslararası öğrenciler, eğitim dönemleri boyunca iki haftada bir 48 saate kadar, resmi okul tatillerinde ise sınırsız çalışma hakkına sahiptir."
+    }
+  },
+  "metadata": {
+    "title": "EduBrisbane | Avustralya Eğitim Danışmanlığı",
+    "description": "Brisbane, Albion merkezli Türk öğrencilere yönelik Avustralya eğitim danışmanlığı. Dil okulları, mesleki eğitim ve üniversite geçiş yolları."
+  },
+  "lsMetadata": {
+    "title": "Avustralya'da Dil Okulları | EduBrisbane",
+    "description": "EduBrisbane ile Avustralya'daki en iyi İngilizce dil okullarını (ELICOS) bulun."
+  },
+  "tafeMetadata": {
+    "title": "Avustralya'da TAFE ve Kolejler | EduBrisbane",
+    "description": "Avustralya'daki pratik mesleki eğitim (VET) kurslarını ve TAFE kolejlerini keşfedin."
+  },
+  "uniMetadata": {
+    "title": "Avustralya'da Üniversiteler | EduBrisbane",
+    "description": "EduBrisbane uzman danışmanlığı ile Avustralya'daki üniversite yolculuğunuza başlayın."
+  },
+  "aboutMetadata": {
+    "title": "Hakkımızda | EduBrisbane",
+    "description": "EduBrisbane'in Albion, Brisbane'deki fiziksel ofisi ve Avustralya eğitim yolculuğunuzdaki yerel avantajlarımız hakkında daha fazla bilgi edinin."
+  },
+  "contactMetadata": {
+    "title": "İletişim | EduBrisbane",
+    "description": "Avustralya eğitim yolculuğunuza bugün başlamak için EduBrisbane ekibiyle iletişime geçin. Basit başvuru formumuzu doldurun."
+  },
+  "servicesPage": {
+    "hero": {
+      "title": "Eğitim Hedeflerinize",
+      "titleHighlight": "Ulaşın",
+      "subtitle": "Avustralya yolculuğunuzun her adımı için kapsamlı rehberlik. Size özel hizmetlerimizi keşfedin."
+    },
+    "elicos": {
+      "heading": "ELICOS ile İngilizcede Ustalaşın",
+      "description": "Genel konuşma becerilerini geliştirmek, IELTS/PTE sınavlarına hazırlanmak veya üniversite için dil yeterliliğini sağlamak istiyorsanız, anlaşmalı Dil Okullarımız mükemmel bir öğrenim ortamı sunar. Brisbane ve tüm Avustralya'da güçlü uluslararası öğrenci desteği sunan dinamik okulları sizin için seçiyoruz.",
+      "button": "Dil Okullarını İncele"
+    },
+    "vet": {
+      "heading": "VET & TAFE ile Pratik Kariyer",
+      "description": "Mesleki Eğitim (VET), pratik ve kariyere yönelik öğrenim sunar. TAFE ve özel kolejlerdeki programlar, sektörün ihtiyaç duyduğu becerilerle mezun olmanız için uzmanlarla birlikte tasarlanır. Popüler alanlar arasında Ticari Aşçılık, Bilişim, Sağlık ve Otomotiv yer alır.",
+      "button": "TAFE Kolejlerini İncele"
+    },
+    "university": {
+      "heading": "Dünya Standartlarında Üniversiteler",
+      "description": "Avustralya, dünyanın en prestijli üniversitelerine ev sahipliği yapmaktadır. Foundation (Hazırlık), Lisans ve Yüksek Lisans başvurularında karmaşık süreçleri sizin için yönetiyoruz. Bölüm seçimi, burs olanakları ve kabul işlemlerinde yanınızdayız.",
+      "button": "Üniversiteleri İncele"
+    }
+  },
+  "guides": {
+    "title": "Bilgi Merkezi",
+    "titleHighlight": "& Rehberler",
+    "subtitle": "Avustralya eğitim yolculuğunuzu planlarken ihtiyacınız olan temel bilgiler ve uzman tavsiyeleri.",
+    "badge": "EduBrisbane Blog",
+    "readMore": "Rehberi Oku",
+    "backButton": "Rehberlere Dön",
+    "share": "Rehberi Paylaş",
+    "related": "İlgili Rehberler",
+    "published": "Yayınlanma",
+    "readTime": "okuma süresi",
+    "consultationCTA": {
+      "title": "Kişisel Danışmanlığa mı İhtiyacınız Var?",
+      "subtitle": "Brisbane merkezli uzmanlarımız eğitim yolculuğunuzu planlamaya yardımcı olmaya hazır.",
+      "button": "Ücretsiz Danışmanlık Al"
+    },
+    "leadMagnet": {
+      "title": "Ücretsiz Avustralya Öğrenci Vizesi Kontrol Listesi",
+      "subtitle": "Vize başvurunuzun kusursuz olmasını sağlamak için adım adım PDF kontrol listemizi indirin.",
+      "emailPlaceholder": "E-posta adresinizi girin",
+      "button": "Ücretsiz PDF İndir",
+      "sending": "Gönderiliyor...",
+      "success": "PDF E-postanıza gönderildi!",
+      "spamNote": "Gizliliğinize saygı duyuyoruz. Spam yapmıyoruz."
+    }
+  },
+  "tools": {
+    "visaChecker": {
+      "title": "Vize Başarı",
+      "titleHighlight": "Hesaplayıcı",
+      "subtitle": "En güncel Gerçek Öğrenci (GS) şartlarına göre Avustralya Öğrenci Vizesi (Subclass 500) profilinizin gücünü 4 hızlı adımda tahmin edin.",
+      "badge": "Ücretsiz Değerlendirme Aracı",
+      "steps": {
+        "english": "İngilizce Seviyesi",
+        "gpa": "Not Ortalaması",
+        "financial": "Finansal Kanıt",
+        "institution": "Hedef Okul"
+      },
+      "questions": {
+        "englishTitle": "Mevcut İngilizce yeterlilik seviyeniz nedir?",
+        "englishDesc": "Geçerli IELTS, PTE veya TOEFL puanları, gerçek niyetinizi göstermek için kritik öneme sahiptir.",
+        "englishOpts": {
+          "high": {
+            "label": "İleri (IELTS 6.5+ / PTE 58+)",
+            "desc": "Eğitim alma yeteneğinin güçlü bir kanıtı."
+          },
+          "medium": {
+            "label": "Orta (IELTS 5.5 / PTE 42)",
+            "desc": "Çoğu giriş şartını karşılar."
+          },
+          "low": {
+            "label": "Başlangıç / Henüz Sınav Yok",
+            "desc": "Muhtemelen bir ELICOS (Dil) paketi gerektirecektir."
+          }
+        },
+        "gpaTitle": "Son akademik performansınız (GPA) nasıl?",
+        "gpaDesc": "Güçlü bir akademik geçmiş, Gerçek Öğrenci (GS) değerlendirmenizi destekler.",
+        "gpaOpts": {
+          "high": {
+            "label": "Yüksek (3.0 Üzeri / %75+)",
+            "desc": "Mükemmel akademik geçmiş."
+          },
+          "medium": {
+            "label": "Ortalama (2.0 - 3.0 / %60-75)",
+            "desc": "Standart akademik performans."
+          },
+          "low": {
+            "label": "Düşük (2.0 Altı / <%60)",
+            "desc": "GS mektubunda ek açıklama gerektirebilir."
+          }
+        },
+        "financialTitle": "Finansal belgeleriniz hazır mı?",
+        "financialDesc": "12 aylık yaşam masraflarını, seyahat ve okul ücretlerini karşılayabileceğinizi kanıtlamalısınız.",
+        "financialOpts": {
+          "ready": {
+            "label": "Tamamen Hazır",
+            "desc": "Fonlar erişilebilir ve doğrulanabilir durumda."
+          },
+          "partial": {
+            "label": "Kısmen Hazır",
+            "desc": "Kredi ayarlanıyor veya sponsor bekleniyor."
+          },
+          "need": {
+            "label": "Yardım Gerekiyor",
+            "desc": "Finansal şartlar hakkında rehberliğe ihtiyaç var."
+          }
+        },
+        "institutionTitle": "Ne tür bir kurum hedefliyorsunuz?",
+        "institutionDesc": "Sağlayıcınızın Değerlendirme Seviyesi (AL), gereken belge kanıtlarını doğrudan etkiler.",
+        "institutionOpts": {
+          "al1": {
+            "label": "AL1 Üniversite",
+            "desc": "Üst düzey Avustralya üniversiteleri. Hızlı işlem."
+          },
+          "al2": {
+            "label": "AL2 Sağlayıcı / TAFE",
+            "desc": "Standart mesleki eğitim ve lisans sağlayıcıları."
+          },
+          "al3": {
+            "label": "AL3 Sağlayıcı",
+            "desc": "Daha yüksek risk. Maksimum kanıt gerektirir."
+          }
+        }
+      },
+      "navigation": {
+        "next": "Sonraki Adım",
+        "prev": "Geri",
+        "submit": "Skorumu Hesapla"
+      },
+      "results": {
+        "title": "Vize Profilinizin Gücü",
+        "analyzing": "Yanıtlarınız güncel İçişleri Bakanlığı kurallarına göre analiz ediliyor...",
+        "scoreLabel": "Profil Gücü Skoru",
+        "highScore": {
+          "title": "Çok Güçlü Profil!",
+          "desc": "Profiliniz mükemmel görünüyor. Gerçek Öğrenci (GS) şartlarını sağlama şansınız çok yüksek. Üniversite başvurunuzu hızlandıralım."
+        },
+        "mediumScore": {
+          "title": "Geliştirilmeye Açık, İyi Bir Profil",
+          "desc": "Profiliniz sağlam, ancak birkaç stratejik adım atmak vize güvenliğinizi önemli ölçüde artıracaktır."
+        },
+        "lowScore": {
+          "title": "Yüksek Riskli Profil - Strateji Gerekli",
+          "desc": "Profiliniz yeni GS kurallarına göre şu anda yüksek vize reddi riski taşıyor. Lütfen profesyonel bir yapılandırma yapmadan başvuru yapmayın. Uzmanlarımız riskleri azaltmak için size yardımcı olacaktır."
+        },
+        "warnings": {
+          "englishLow": "Gerçek öğrenci (GS) profilinizi güçlendirmek için bir ELICOS (İngilizce) dil paketini değerlendirmenizi kesinlikle öneririz.",
+          "gpaLow": "Akademik geçmişinizi (notlarınızı) açıklamak için daha özenli bir GS niyet mektubuna ihtiyacınız olacak.",
+          "financialNeed": "Mali yeterliliğinizi kanıtlamak şu an için en kritik adım. Hangi belgelerin kabul edildiği konusunda danışmanlarımızın size yol göstermesine izin verin.",
+          "al3Risk": "AL3 seviyesindeki bir okula başvurmak maksimum seviyede evrak kanıtı gerektirir. Sizin için sağlam bir portfolyo oluşturabilir veya AL1/AL2 alternatifleri sunabiliriz.",
+          "criticalBlock": "DİKKAT: Yetersiz bütçe ve düşük İngilizce kombinasyonu vize reddi ihtimalini %90'ın üzerine çıkarır. Stratejik bir başvuru için acilen Serter ile görüşün."
+        },
+        "leadCapture": {
+          "label": "WhatsApp Üzerinden Hızlı Danışmanlık Alın",
+          "placeholder": "WhatsApp Numaranız (İsteğe Bağlı)",
+          "prompt": "Harika bir profilin var! Albion ofisimizdeki ekibimiz verilerini inceliyor, istersen şu an canlı bir ön görüşme yapabiliriz."
+        },
+        "cta": {
+          "button": "Serter ile Görüş (Vize Asistanı)",
+          "help": "Yapay zeka Vize Asistanımız aracılığıyla kişiselleştirilmiş stratejinizi tartışın (PylonChat)."
+        },
+        "disclaimer": "Yasal Uyarı: Bu araç, mevcut İçişleri Bakanlığı kurallarına dayanarak yalnızca bir tahminde (Profil Gücü Skoru) bulunur. Bu bir vize garantisi değildir; nihai karar her zaman Avustralya İçişleri Bakanlığı'na aittir.",
+        "restart": "Yeniden Hesapla"
+      }
+    }
+  },
+  "servicesMetadata": {
+    "title": "Hizmetlerimiz | EduBrisbane",
+    "description": "ELICOS dil okullarından VET programlarına ve üniversite yollarına kadar kapsamlı eğitim hizmetlerimizi keşfedin."
+  },
+  "uniDetails": {
+    "backToUniversities": "Üniversitelere Dön",
+    "about": "Hakkında",
+    "noDescriptionAvailable": "Henüz açıklama bulunmamaktadır. Detaylar için lütfen bizimle iletişime geçin.",
+    "topPrograms": "Öne Çıkan Programlar",
+    "fastFacts": "Hızlı Bilgiler",
+    "location": "Lokasyon",
+    "entryRequirements": "Başvuru Şartları",
+    "averageFees": "Ortalama Ücretler",
+    "feesPlaceholder": "Güncel ücret bilgisi için iletişime geçin",
+    "visitWebsite": "Resmi Sitesini Ziyaret Et",
+    "readyToApply": "Başvurmaya Hazır mısınız?",
+    "applicationText": "Bu üniversite hakkında detaylı bilgi ve başvuru süreci için bizimle iletişime geçin.",
+    "contactUsCta": "Hemen Başvur",
+    "worldRanking": "Otorite Sıralaması",
+    "distanceFromOffice": "Albion Ofisimize Uzaklık",
+    "expertInsight": "Serter'in Notu",
+    "defaultDistance": "Merkezimize yakın konumda.",
+    "defaultEntryReq": "Bölüme göre değişiklik göstermektedir.",
+    "defaultInsight": "Uluslararası öğrenciler için harika bir lokasyonda kaliteli eğitim sunan, şiddetle tavsiye ettiğimiz bir okul.",
+    "formTitle": "{name} Hakkında Serter ile Görüş",
+    "formSubtitle": "Kabul şartları, başvuru süreci ve eğitim maliyetleri hakkında ücretsiz ve hızlı bilgi almak için hemen formu doldur, seninle iletişime geçelim!"
+  },
+  "about": {
+    "badge": "EduBrisbane Hakkında",
+    "title": "Eğitim Yolculuğunuz,",
+    "titleHighlight": "Sahadan Rehberlikle",
+    "subtitle": "Uluslararası eğitimin sadece akademik değil, yeni bir ülkeye başarıyla entegre olma süreci olduğuna inanıyoruz. Bu yüzden Brisbane'de kalıcı fiziksel varlığımızı sürdürüyoruz.",
+    "vision": {
+      "title": "Vizyonumuz",
+      "description": "Eğitim için Avustralya'yı seçen öğrencilerin sahada en güvenilir partneri olmak; indiklerinden mezuniyetlerine kadar hiçbir öğrencinin kendini yalnız hissetmemesini sağlamak."
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "description": "Her öğrencinin hedeflerine uygun, şeffaf ve objektif bir danışmanlık sunarken, kayıttan gerçek hayata entegrasyona uzanan güçlü bir yerel destek ağı sağlamak."
+    }
+  },
+  "budgetPlanner": {
+    "title": "Brisbane Yaşam Maliyeti Hesaplayıcı",
+    "subtitle": "2026 güncel verileriyle Brisbane'deki haftalık ve aylık giderlerinizi tahmin edin. Yaşam tarzınızın bütçenizi büyük ölçüde etkileyeceğini unutmayın.",
+    "weeklyLabel": "Haftalık Tahmin",
+    "monthlyLabel": "Aylık Tahmin",
+    "accommodation": {
+      "title": "Konaklama Tipi",
+      "homestay": {
+        "label": "Aile Yanı (Yemek Dahil)",
+        "desc": "Genellikle günde 2 öğün yemek ve faturalar dahildir. ~$350-400/hafta."
+      },
+      "shared": {
+        "label": "Paylaşımlı Ev / Oda",
+        "desc": "Paylaşımlı bir evde/dairede oda kiralama. ~$250-350/hafta."
+      },
+      "solo": {
+        "label": "Tek Kişilik 1+1 (Albion/Merkez)",
+        "desc": "Merkezi bir konumda yalnız yaşamak. ~$450-600/hafta."
+      }
+    },
+    "lifestyle": {
+      "title": "Beslenme ve Sosyal Yaşam",
+      "cook": {
+        "label": "Genelde evde yemek yaparım",
+        "desc": "Market alışverişi ağırlıklı. ~$100-130/hafta."
+      },
+      "eatOut": {
+        "label": "Sık sık dışarıda yerim",
+        "desc": "Market alışverişi ve sık kafe/restoran ziyaretleri. ~$200-250/hafta."
+      }
+    },
+    "transport": {
+      "title": "Ulaşım",
+      "gocard": {
+        "label": "Translink GoCard (Toplu Taşıma)",
+        "desc": "Öğrenci indirimli veya standart toplu taşıma kullanımı. ~$30-50/hafta."
+      },
+      "bike": {
+        "label": "Bisiklet / Yürüme",
+        "desc": "Kampüse yakın yaşamak veya bisiklet. $0/hafta (bisiklet alındıktan sonra)."
+      }
+    },
+    "breakdown": {
+      "title": "Gider Dağılımı",
+      "rent": "Kira & Faturalar",
+      "food": "Beslenme & Yaşam",
+      "transport": "Ulaşım",
+      "misc": "Telefon & Abonelikler"
+    },
+    "comparison": {
+      "title": "Hükümet Gerekliliği Karşılaştırması",
+      "desc": "Avustralya Hükümeti, uluslararası öğrencilerin yaşam masrafları için yılda $31,000 AUD (aylık ~$2,583) kanıtlamasını şart koşmaktadır.",
+      "yourBudget": "Sizin Tahmini Bütçeniz",
+      "govRequirement": "Resmi Gereklilik",
+      "underBudget": "Bütçeniz hükümetin asgari limitinin altında. Yine de resmi başvuru için minimum $31,000 AUD göstermeniz gerekecektir.",
+      "overBudget": "Seçimleriniz, hükümetin asgari şartını aşıyor. Bu yaşam tarzını destekleyecek finansal kapasiteniz olduğundan emin olun."
+    },
+    "cta": {
+      "title": "Bütçeniz kısıtlı mı?",
+      "desc": "Brisbane yaşanabilir bir şehir ama doğru okulu seçmek büyük fark yaratır. Bütçenizi en verimli şekilde kullanabileceğiniz TAFE ve Dil Okulu seçenekleri için Serter ile görüşün.",
+      "button": "Uygun Fiyatlı Seçenekleri Gör",
+      "whatsappText": "Merhaba Serter! Web sitenizden yaşam maliyeti hesaplaması yaptım ve Brisbane'deki uygun fiyatlı okul seçenekleri hakkında bilgi almak istiyorum."
+    }
+  },
+  "pathwayPlanner": {
+    "title": "Eğitim Yol Haritası Oluşturucu",
+    "subtitle": "Mevcut durumunuzdan Avustralya'daki profesyonel kariyerinize uzanan adım adım yolculuğunuzu keşfedin. Özel yol haritanızı oluşturmak için profilinizi seçin.",
+    "inputs": {
+      "studyLevel": {
+        "label": "En Son Eğitim Durumu",
+        "highSchool": "Lise Mezunu",
+        "bachelor": "Üniversite Mezunu",
+        "master": "Yüksek Lisans Mezunu"
+      },
+      "currentVisa": {
+        "label": "Mevcut Vize Durumu",
+        "none": "Avustralya Dışı / Vize Yok",
+        "student": "Öğrenci Vizesi (500)",
+        "whv": "Work & Holiday (462)",
+        "graduate": "Mezun Çalışma (485)"
+      },
+      "englishLevel": {
+        "label": "Mevcut İngilizce Seviyesi",
+        "a1a2": "Başlangıç (A1-A2)",
+        "b1b2": "Orta (B1-B2)",
+        "c1c2": "İleri (C1-C2)"
+      },
+      "targetCareer": {
+        "label": "Hedef Kariyer Alanı",
+        "it": "Bilişim (IT)",
+        "health": "Sağlık & Hemşirelik",
+        "engineering": "Mühendislik",
+        "trades": "Aşçılık & Zanaat (Trades)"
+      }
+    },
+    "roadmap": {
+      "title": "Size Özel Eğitim Yol Haritası",
+      "step": "Adım",
+      "duration": "Süre",
+      "visa": "Vize"
+    },
+    "cta": {
+      "printPdf": "Haritayı E-posta ile Al",
+      "contact": "Serter ile Planlamaya Başla",
+      "whatsappText": "Merhaba Serter! Web siten üzerinden size özel eğitim yol haritamı oluşturdum ve başvuru sürecini detaylıca planlamak istiyorum."
+    },
+    "leadModal": {
+      "title": "Ücretsiz Özel Haritanızı Alın",
+      "subtitle": "Bilgilerinizi girin, Brisbane'deki 'Yerel Destek' rehberimizi de içeren özel PDF'inizi hemen adresinize gönderelim.",
+      "name": "Ad Soyad",
+      "email": "E-posta Adresi",
+      "phone": "Telefon Numarası (WhatsApp)",
+      "submit": "PDF'i Gönder",
+      "processing": "Oluşturuluyor...",
+      "successTitle": "Başarılı! Gelen Kutunuzu Kontrol Edin.",
+      "successDesc": "Özel yol haritanız ve yerel destek rehberimiz e-posta adresinize gönderildi."
+    },
+    "pdf": {
+      "supportTitle": "EduBrisbane Yerel Desteği",
+      "supportSubtitle": "İnişten Mezuniyete Kadar Partneriniz",
+      "supportText1": "Güvenle varmak sadece başlangıçtır. EduBrisbane'de biz, uluslararası eğitimin komple bir yaşam tarzı geçişi olduğuna inanıyoruz.",
+      "supportText2": "Albion merkez ofisimiz sizin yerel kontrol noktanızdır. Konaklama, TFN kurulumu, banka hesapları ve yerel iş arama konularında yardımcı oluyoruz.",
+      "supportText3": "7/24 acil durum desteği ve başarılı uluslararası öğrencilerden oluşan bir toplulukla asla yalnız hissetmeyin."
+    },
+    "compliance": {
+      "highRiskTitle": "YÜKSEK RET RİSKİ",
+      "legalWarningBackhopping": "⚠️ Mart 2026 yasal düzenlemeleri uyarınca, 485 Mezun Vizesinden daha düşük seviyeli bir programa (VET/TAFE) geçiş yapılması durumunda vize reddi riski çok yüksektir.",
+      "action": "Lütfen ilerlemek için eğitim seviyeni yukarı taşıyacak (Örn: Yüksek Lisans) bir rota seçin veya alternatif seçenekler için Serter'e danışın."
+    }
+  }
+}

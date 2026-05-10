@@ -1,0 +1,80 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            String    @id
+  email         String    @unique
+  firstName     String?
+  lastName      String?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  visaScores    VisaScore[]
+  pathwayPlans  PathwayPlan[]
+  savedSchools  SavedSchool[]
+}
+
+model VisaScore {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  score     Int
+  riskLevel String
+  data      Json     // Store the raw inputs/results
+  createdAt DateTime @default(now())
+}
+
+model PathwayPlan {
+  id            String   @id @default(uuid())
+  userId        String
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  studyLevel    String
+  englishLevel  String
+  targetCareer  String
+  pdfUrl        String?  // Optional: URL to a generated PDF if stored in cloud
+  createdAt     DateTime @default(now())
+}
+
+model SavedSchool {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  schoolId  String   
+  createdAt DateTime @default(now())
+
+  @@unique([userId, schoolId]) // A user can only save a school once
+}
+
+// Global Site Data
+model School {
+  id              String   @id @default(uuid())
+  slug            String   @unique
+  name            String
+  type            String   // 'language', 'vet', 'higherEd'
+  descriptionEn   String
+  descriptionTr   String
+  tuitionYearly   Int
+  assessmentLevel Int
+  location        String
+  city            String   // 'Brisbane', 'Gold Coast', etc.
+  featuresEn      String[]
+  featuresTr      String[]
+  logoUrl         String?
+  websiteUrl      String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  isActive        Boolean  @default(true)
+}
+
+model VisaRule {
+  id          String   @id @default(uuid())
+  key         String   @unique // e.g., 'MIN_FUNDS_AUD'
+  value       String   // e.g., '29710'
+  description String?
+  updatedAt   DateTime @updatedAt
+}

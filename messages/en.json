@@ -1,0 +1,590 @@
+{
+    "nav": {
+        "home": "Home",
+        "services": "Services",
+        "schools": "Schools",
+        "languageSchools": "Language Schools",
+        "tafe": "TAFE / Colleges",
+        "universities": "Universities",
+        "about": "About Us",
+        "contact": "Contact",
+        "guides": "Guides & Rules",
+        "tools": "Tools",
+        "compare": "Compare",
+        "budgetPlanner": "Budget Planner",
+        "pathwayPlanner": "Pathway Planner",
+        "startJourney": "Start Your Journey"
+    },
+    "hero": {
+        "badge": "🇦🇺 Based in Brisbane, Albion",
+        "title": "Start Your Australian Education",
+        "titleHighlight": "with a Local Partner",
+        "subtitle": "With our physical office in Brisbane, we support you every step of your Australian education journey. From choosing the right school to settling in — we're right here with you.",
+        "cta": "Get Free Consultation",
+        "ctaSecondary": "Explore Our Services",
+        "stats": {
+            "students": "500+",
+            "studentsLabel": "Happy Students",
+            "schools": "50+",
+            "schoolsLabel": "Partner Schools",
+            "years": "10+",
+            "yearsLabel": "Years Experience"
+        }
+    },
+    "featuredSchools": {
+        "badge": "Top Rated Institutions",
+        "title": "Featured",
+        "titleHighlight": "Universities",
+        "subtitle": "Discover Australia's most prestigious and highly-ranked universities, handpicked for international students seeking academic excellence.",
+        "viewAll": "View All Universities"
+    },
+    "aboutSummary": {
+        "title": "Your Local Partner in Australia",
+        "description": "EduBrisbane is not just a remote consultancy. With our physical office in Albion, Brisbane, we provide on-ground, face-to-face support. From airport pickup to finding accommodation and setting up your bank account, we are with you every step of the way.",
+        "readMore": "Read Our Full Story"
+    },
+    "services": {
+        "sectionBadge": "Our Services",
+        "title": "Plan Your Education Journey",
+        "titleHighlight": "Together",
+        "subtitle": "We guide you in finding the education program that best suits your needs.",
+        "elicos": {
+            "title": "Language Schools (ELICOS)",
+            "description": "Learn English at Australia's top language schools. A wide range of programs from General English to IELTS preparation.",
+            "features": [
+                "General English",
+                "IELTS / PTE Preparation",
+                "Academic English",
+                "Flexible Start Dates"
+            ]
+        },
+        "vet": {
+            "title": "Vocational Education (VET)",
+            "description": "Prepare for the business world with career-focused vocational training programs in Australia. Practical training supported by internship opportunities.",
+            "features": [
+                "Commercial Cookery",
+                "Information Technology",
+                "Business Management",
+                "Construction & Trades"
+            ]
+        },
+        "university": {
+            "title": "University Pathways",
+            "description": "We guide you on paths to Australia's prestigious universities. From foundation programs to postgraduate education.",
+            "features": [
+                "Foundation Programs",
+                "Diploma Pathways",
+                "Undergraduate Degrees",
+                "Postgraduate Studies"
+            ]
+        },
+        "learnMore": "Learn More"
+    },
+    "localAdvantage": {
+        "badge": "Your Local Advantage",
+        "title": "On the Ground in",
+        "titleHighlight": "Brisbane",
+        "subtitle": "Not remote consulting — face-to-face support at our Albion, Brisbane office. We're with you from the moment you arrive in Australia.",
+        "features": {
+            "arrival": {
+                "title": "Airport Pickup",
+                "description": "We meet you at Brisbane Airport, standing by your side from day one."
+            },
+            "accommodation": {
+                "title": "Accommodation Support",
+                "description": "We help you find safe and affordable accommodation options."
+            },
+            "banking": {
+                "title": "Bank & Phone Setup",
+                "description": "We take care of first-day essentials like opening a bank account and getting a phone plan."
+            },
+            "ongoing": {
+                "title": "Ongoing Support",
+                "description": "We provide academic and personal support throughout your education journey."
+            }
+        }
+    },
+    "form": {
+        "badge": "Apply Now",
+        "title": "Start Your Journey",
+        "titleHighlight": "Today",
+        "subtitle": "Leave your details and our education consultants will get in touch with you as soon as possible.",
+        "step1": "Personal Info",
+        "step2": "English Level",
+        "step3": "Course Preference",
+        "nameLabel": "Full Name",
+        "namePlaceholder": "e.g. John Smith",
+        "emailLabel": "Email Address",
+        "emailPlaceholder": "example@email.com",
+        "phoneLabel": "Phone Number",
+        "phonePlaceholder": "+61 4XX XXX XXX",
+        "englishLevel": "Your English Level (Self-Assessment)",
+        "levels": {
+            "beginner": "Beginner - No or very little knowledge",
+            "elementary": "Elementary - I can understand simple sentences",
+            "intermediate": "Intermediate - I can hold everyday conversations",
+            "upperIntermediate": "Upper-Intermediate - I can communicate fluently",
+            "advanced": "Advanced - I can communicate at an academic level"
+        },
+        "courseType": "Preferred Course Type",
+        "courses": {
+            "elicos": "Language School (ELICOS)",
+            "vet": "Vocational Education (VET)",
+            "university": "University",
+            "unsure": "Not Sure Yet"
+        },
+        "next": "Next Step",
+        "prev": "Previous Step",
+        "submit": "Submit Application",
+        "success": "Your application has been received! We'll get in touch with you shortly.",
+        "errors": {
+            "nameRequired": "Please enter your name",
+            "emailRequired": "Please enter your email address",
+            "emailInvalid": "Please enter a valid email address",
+            "phoneRequired": "Please enter your phone number",
+            "levelRequired": "Please select your English level",
+            "courseRequired": "Please select a course type"
+        }
+    },
+    "footer": {
+        "description": "Education consultancy agency based in Albion, Brisbane. We turn your dream of studying in Australia into reality.",
+        "quickLinks": "Quick Links",
+        "contactUs": "Contact Us",
+        "legal": "Legal",
+        "address": "Albion, Brisbane QLD 4010, Australia",
+        "disclaimer": "We are education consultants. Immigration advice is provided only through our independent, MARA-registered partners.",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "rights": "All rights reserved.",
+        "abn": "ABN: XX XXX XXX XXX",
+        "qeac": "QEAC Qualified"
+    },
+    "schoolPages": {
+        "languageSchools": {
+            "title": "Language Schools (ELICOS)",
+            "subtitle": "Discover top English language schools in Australia to advance your career or prepare for further studies.",
+            "intro": "Studying English in Australia isn't just about language proficiency; it's about cultural immersion. Our ELICOS partners provide engaging, interactive environments where you'll rapidly improve your fluency while building a global network of friends. Whether you need General English, IELTS preparation, or want to master Barista English, we've got you covered."
+        },
+        "tafe": {
+            "title": "TAFE & Vocational Colleges",
+            "subtitle": "Gain practical, career-focused skills through our partner vocational institutions and TAFE colleges.",
+            "intro": "Australia's VET (Vocational Education and Training) sector is world-renowned for its hands-on, industry-aligned approach. TAFE and private colleges equip you with the exact technical skills employers demand right now. From Commercial Cookery and Automotive Technology to IT and Nursing, these pathways focus on building real-world competence."
+        },
+        "universities": {
+            "title": "Universities Directory",
+            "subtitle": "Explore world-class undergraduate and postgraduate programs at Australia's leading universities.",
+            "intro": "A degree from an Australian university is prestigious and recognized globally. Our comprehensive directory features world-renowned research institutions, including the elite Group of Eight, as well as innovative, top-tier modern universities. Browse our catalog below to identify the campus environment, rankings, and academic focus that best match your ambitions."
+        },
+        "card": {
+            "location": "Location",
+            "featuredCourses": "Featured Courses",
+            "getDetails": "Get Detailed Info",
+            "localChoice": "Local Choice",
+            "assessmentLevel": "AL",
+            "startingFrom": "Starting From",
+            "weekly": "/ week"
+        },
+        "filters": {
+            "all": "All",
+            "generalEnglish": "General English",
+            "examPrep": "Exam Prep (IELTS/PTE)",
+            "eveningClasses": "Evening Classes",
+            "business": "Business",
+            "academic": "Academic",
+            "baristaHospitality": "Barista / Hospitality",
+            "tradeCourses": "Trade Courses",
+            "itBusiness": "IT & Business",
+            "healthCommunity": "Health & Community Services"
+        },
+        "workingRights": {
+            "title": "Working Rights in Australia (ESOS)",
+            "description": "International students on a student visa can work up to 48 hours per fortnight while their course is in session, and unlimited hours during recognized school holidays."
+        }
+    },
+    "metadata": {
+        "title": "EduBrisbane | Australian Education Consultancy",
+        "description": "Australian education consultancy for students, based in Albion, Brisbane. Language schools, vocational education, and university pathways."
+    },
+    "lsMetadata": {
+        "title": "Language Schools in Australia | EduBrisbane",
+        "description": "Find the best English language schools (ELICOS) in Australia with EduBrisbane."
+    },
+    "tafeMetadata": {
+        "title": "TAFE & Colleges in Australia | EduBrisbane",
+        "description": "Explore practical VET courses and TAFE colleges in Australia."
+    },
+    "uniMetadata": {
+        "title": "Universities in Australia | EduBrisbane",
+        "description": "Start your university journey in Australia with expert guidance from EduBrisbane."
+    },
+    "aboutMetadata": {
+        "title": "About Us | EduBrisbane",
+        "description": "Learn more about EduBrisbane's physical presence in Albion, Brisbane and how our local advantage benefits your Australian education journey."
+    },
+    "contactMetadata": {
+        "title": "Contact Us | EduBrisbane",
+        "description": "Get in touch with the EduBrisbane team to start your Australian education journey today. Fill out our simple application form."
+    },
+    "servicesPage": {
+        "hero": {
+            "title": "Empowering Your",
+            "titleHighlight": "Education Goals",
+            "subtitle": "Comprehensive guidance for every step of your Australian journey. Explore our tailored services."
+        },
+        "elicos": {
+            "heading": "Master English with ELICOS",
+            "description": "Whether you need to improve your general conversation skills, prepare for the IELTS/PTE exams, or meet the entry requirements for a university degree, our partner Language Schools provide the perfect immersive environment. We handpick schools in Brisbane and across Australia that offer dynamic teaching methods and strong international student support.",
+            "button": "Explore Language Schools"
+        },
+        "vet": {
+            "heading": "Hands-on Skills with VET & TAFE",
+            "description": "Vocational Education and Training (VET) offers practical, career-focused learning. Programs at TAFE and private colleges are designed alongside industry experts to ensure you graduate with in-demand skills. Popular pathways include Commercial Cookery, Information Technology, Healthcare, and Automotive Trades.",
+            "button": "Explore TAFE Colleges"
+        },
+        "university": {
+            "heading": "World-Class University Degrees",
+            "description": "Australia is home to some of the world's highest-ranking universities. We guide you through the complex application process for Foundation, Bachelor's, and Master's programs. We assist with course selection, scholarship applications, and ensuring your admissions portfolio stands out.",
+            "button": "Explore Universities"
+        }
+    },
+    "guides": {
+        "title": "Knowledge Hub",
+        "titleHighlight": "& Insights",
+        "subtitle": "Essential guides and expert advice for international students planning their Australian education journey.",
+        "badge": "EduBrisbane Blog",
+        "readMore": "Read Full Guide",
+        "backButton": "Back to Guides",
+        "share": "Share Guide",
+        "related": "Related Guides",
+        "published": "Published",
+        "readTime": "read",
+        "consultationCTA": {
+            "title": "Need Personalized Advice?",
+            "subtitle": "Our Brisbane-based experts are ready to help you plan your education journey.",
+            "button": "Book Free Consultation"
+        },
+        "leadMagnet": {
+            "title": "Free Australian Student Visa Checklist",
+            "subtitle": "Download our comprehensive step-by-step PDF checklist to ensure your visa application is flawless.",
+            "emailPlaceholder": "Enter your email address",
+            "button": "Get Free PDF",
+            "sending": "Sending...",
+            "success": "Checklist sent to your email!",
+            "spamNote": "We respect your privacy. No spam."
+        }
+    },
+    "tools": {
+        "visaChecker": {
+            "title": "Visa Success",
+            "titleHighlight": "Calculator",
+            "subtitle": "Estimate your Australia Student Visa (Subclass 500) profile strength based on the latest Genuine Student (GS) requirements in 4 quick steps.",
+            "badge": "Free Assessment Tool",
+            "steps": {
+                "english": "English Level",
+                "gpa": "Academic GPA",
+                "financial": "Financial Proof",
+                "institution": "Target Institution"
+            },
+            "questions": {
+                "englishTitle": "What is your current English proficiency level?",
+                "englishDesc": "Valid IELTS, PTE, or TOEFL scores are critical for demonstrating genuine intent.",
+                "englishOpts": {
+                    "high": {
+                        "label": "Advanced (IELTS 6.5+ / PTE 58+)",
+                        "desc": "Strong proof of ability to study."
+                    },
+                    "medium": {
+                        "label": "Intermediate (IELTS 5.5 / PTE 42)",
+                        "desc": "Meets most entry requirements."
+                    },
+                    "low": {
+                        "label": "Beginner / No Test Yet",
+                        "desc": "Will likely require an ELICOS package."
+                    }
+                },
+                "gpaTitle": "What is your recent academic performance (GPA)?",
+                "gpaDesc": "A strong academic background supports your Genuine Student (GS) assessment.",
+                "gpaOpts": {
+                    "high": {
+                        "label": "High (Above 3.0 / 75%)",
+                        "desc": "Excellent academic track record."
+                    },
+                    "medium": {
+                        "label": "Average (2.0 - 3.0 / 60-75%)",
+                        "desc": "Standard academic performance."
+                    },
+                    "low": {
+                        "label": "Low (Below 2.0 / <60%)",
+                        "desc": "May need further explanation in GS."
+                    }
+                },
+                "financialTitle": "Are your financial documents ready?",
+                "financialDesc": "You must prove you can cover 12 months of living costs, travel, and tuition.",
+                "financialOpts": {
+                    "ready": {
+                        "label": "Fully Ready",
+                        "desc": "Funds are accessible and verifiable."
+                    },
+                    "partial": {
+                        "label": "Partially Ready",
+                        "desc": "Securing loan or waiting for sponsor."
+                    },
+                    "need": {
+                        "label": "Requires Assistance",
+                        "desc": "Need guidance on financial requirements."
+                    }
+                },
+                "institutionTitle": "What type of institution are you aiming for?",
+                "institutionDesc": "The Assessment Level (AL) of your provider impacts the documentary evidence required.",
+                "institutionOpts": {
+                    "al1": {
+                        "label": "AL1 University",
+                        "desc": "Top-tier universities. Streamlined processing."
+                    },
+                    "al2": {
+                        "label": "AL2 Provider / TAFE",
+                        "desc": "Standard vocational and degree providers."
+                    },
+                    "al3": {
+                        "label": "AL3 Provider",
+                        "desc": "Higher risk. Maximum evidence required."
+                    }
+                }
+            },
+            "navigation": {
+                "next": "Next Step",
+                "prev": "Previous",
+                "submit": "Calculate My Score"
+            },
+            "results": {
+                "title": "Your Visa Profile Strength",
+                "analyzing": "Analyzing your responses based on current DHA guidelines...",
+                "scoreLabel": "Profile Strength Score",
+                "highScore": {
+                    "title": "Strong Profile!",
+                    "desc": "Your profile looks excellent. You have a very high chance of meeting the Genuine Student requirements. Let's fast-track your university application."
+                },
+                "mediumScore": {
+                    "title": "Good Profile with Room for Improvement",
+                    "desc": "Your profile is solid but taking a few strategic steps will drastically increase your visa safety."
+                },
+                "lowScore": {
+                    "title": "High Risk Profile - Immediate Action Required",
+                    "desc": "Your profile currently carries a very high risk of visa refusal under the new GS rules. Please do not apply without professional restructuring. Our expert agents can help mitigate these risks."
+                },
+                "warnings": {
+                    "englishLow": "We strongly recommend considering a packaged ELICOS (English) course to boost your proficiency and GS profile.",
+                    "gpaLow": "A thoughtful GS statement will be needed to explain your academic history.",
+                    "financialNeed": "Securing your financial capacity is the most critical next step. Let our agents guide you on acceptable evidence.",
+                    "al3Risk": "Applying to an AL3 institution requires maximum documentary evidence. We can help you build a robust portfolio or suggest AL1/AL2 alternatives."
+                },
+                "leadCapture": {
+                    "label": "Get Fast-Tracked Advice via WhatsApp",
+                    "placeholder": "Your WhatsApp Number (Optional)",
+                    "prompt": "Great profile! Our Albion team is reviewing your data. Want to start a live consultation now?"
+                },
+                "cta": {
+                    "button": "Talk to Serter (Visa Assistant)",
+                    "help": "Discuss your personalized strategy with our AI Visa Assistant."
+                },
+                "disclaimer": "Disclaimer: This tool provides an estimate based on current DHA guidelines. It is not a guarantee of visa approval. Final decisions rest solely with the Australian Department of Home Affairs.",
+                "restart": "Calculate Again"
+            }
+        }
+    },
+    "servicesMetadata": {
+        "title": "Our Services | EduBrisbane",
+        "description": "Discover our comprehensive education services, from ELICOS language schools to VET programs and university pathways."
+    },
+    "uniDetails": {
+        "backToUniversities": "Back to Universities",
+        "about": "About",
+        "noDescriptionAvailable": "No description available yet. Please contact us for details.",
+        "topPrograms": "Top Programs",
+        "fastFacts": "Fast Facts",
+        "location": "Location",
+        "entryRequirements": "Entry Requirements",
+        "averageFees": "Average Fees",
+        "feesPlaceholder": "Contact us for current fee structures",
+        "visitWebsite": "Visit Official Website",
+        "readyToApply": "Ready to Apply?",
+        "applicationText": "Get detailed information about this university and begin your application process.",
+        "contactUsCta": "Apply Now",
+        "worldRanking": "World Ranking",
+        "distanceFromOffice": "Distance from Our Albion Office",
+        "expertInsight": "Local Expert Insight",
+        "defaultDistance": "Conveniently located near our office.",
+        "defaultEntryReq": "Requirements vary depending on the program.",
+        "defaultInsight": "A highly recommended institution offering quality education in a great location for international students.",
+        "formTitle": "Talk to Serter About {name}",
+        "formSubtitle": "Fill out the form below to get quick, free information about entry requirements, the application process, and education costs. We'll be in touch!"
+    },
+    "about": {
+        "badge": "About EduBrisbane",
+        "title": "Your Education Journey,",
+        "titleHighlight": "Guided by Locals",
+        "subtitle": "We believe international education is more than just academic—it's about successfully integrating into a new country. That's why we maintain a permanent physical presence in Brisbane.",
+        "vision": {
+            "title": "Our Vision",
+            "description": "To be the most reliable, on-ground partner for students choosing Australia for their education, ensuring no student feels alone from the moment they land until they graduate."
+        },
+        "mission": {
+            "title": "Our Mission",
+            "description": "Providing transparent, objective guidance tailored to each student's goals, whilst maintaining a strong local support network that extends beyond enrollment to real-life settlement."
+        }
+    },
+    "compare": {
+        "title": "Compare Schools",
+        "subtitle": "Discover the best institution for your goals by comparing fees, rankings, and exclusive local insights.",
+        "button": "Compare",
+        "add": "Add to Compare",
+        "added": "Added",
+        "compareNow": "Compare Now",
+        "maxReached": "Max 3 schools allowed",
+        "clearAll": "Clear All",
+        "emptyState": "You haven't selected any schools to compare yet. Browse our catalogs to add up to 3 schools.",
+        "browseUniversities": "Browse Universities",
+        "browseTAFE": "Browse TAFE Colleges",
+        "browseLanguage": "Browse Language Schools",
+        "remove": "Remove",
+        "table": {
+            "ranking": "Global Ranking",
+            "distance": "Distance / Reach",
+            "assessmentLevel": "Assessment Level",
+            "tuitionFee": "Estimated Tuition",
+            "featuredCourses": "Featured Programs",
+            "localInsight": "Serter's Insight",
+            "entryReqs": "Entry Requirements"
+        }
+    },
+    "budgetPlanner": {
+        "title": "Brisbane Cost of Living Calculator",
+        "subtitle": "Estimate your weekly and monthly expenses in Brisbane based on current 2026 data. Keep in mind that lifestyle choices drastically impact your budget.",
+        "weeklyLabel": "Weekly Estimate",
+        "monthlyLabel": "Monthly Estimate",
+        "accommodation": {
+            "title": "Accommodation Type",
+            "homestay": {
+                "label": "Homestay (Meals Included)",
+                "desc": "Typically includes 2 meals/day and utilities. ~$350-400/week."
+            },
+            "shared": {
+                "label": "Shared Apartment or Room",
+                "desc": "Renting a room in a shared house/apartment. ~$250-350/week."
+            },
+            "solo": {
+                "label": "Solo 1-Bed Apartment (Albion/City)",
+                "desc": "Living alone in a central location. ~$450-600/week."
+            }
+        },
+        "lifestyle": {
+            "title": "Food & Lifestyle",
+            "cook": {
+                "label": "I mostly cook my meals",
+                "desc": "Grocery shopping at Coles/Woolworths or local markets. ~$100-130/week."
+            },
+            "eatOut": {
+                "label": "I eat out frequently",
+                "desc": "Combining groceries with frequent dining at cafes & restaurants. ~$200-250/week."
+            }
+        },
+        "transport": {
+            "title": "Transportation",
+            "gocard": {
+                "label": "Translink GoCard (Public Transport)",
+                "desc": "Student concession or standard public transport usage. ~$30-50/week."
+            },
+            "bike": {
+                "label": "Bicycle / Walking",
+                "desc": "Living close to campus or cycling. $0/week (after initial bike purchase)."
+            }
+        },
+        "breakdown": {
+            "title": "Expense Breakdown",
+            "rent": "Rent & Utilities",
+            "food": "Food & Lifestyle",
+            "transport": "Transportation",
+            "misc": "Misc. Subscriptions & Phone"
+        },
+        "comparison": {
+            "title": "Government Requirement Comparison",
+            "desc": "The Australian Government requires international students to demonstrate access to $31,000 AUD per year (~$2,583 per month) for living costs.",
+            "yourBudget": "Your Calculated Monthly Setup",
+            "govRequirement": "Gov. Requirement",
+            "underBudget": "Your estimated lifestyle is below the government's minimum. You'll likely need to show $31,000 AUD minimum regardless.",
+            "overBudget": "Your lifestyle choices exceed the government minimum requirement. Ensure you have the financial capacity to support this."
+        },
+        "cta": {
+            "title": "On a tight budget?",
+            "desc": "Brisbane is affordable, but finding the right school makes a huge difference. Talk to Serter about high-quality, cost-effective TAFE and VET options to optimize your budget.",
+            "button": "Get Budget-Friendly Options",
+            "whatsappText": "Hi Serter! I just calculated my living costs on your website and I'm looking for affordable courses in Brisbane."
+        }
+    },
+    "pathwayPlanner": {
+        "title": "Education Pathway Visualizer",
+        "subtitle": "Discover your step-by-step journey from your current situation to an Australian professional career. Select your profile below to generate your custom roadmap.",
+        "inputs": {
+            "studyLevel": {
+                "label": "Highest Education Level",
+                "highSchool": "High School Graduate",
+                "bachelor": "Bachelor's Degree",
+                "master": "Master's Degree"
+            },
+            "currentVisa": {
+                "label": "Current Visa Status",
+                "none": "Offshore / No Visa",
+                "student": "Student Visa (500)",
+                "whv": "Work & Holiday (462)",
+                "graduate": "Temporary Graduate (485)"
+            },
+            "englishLevel": {
+                "label": "Current English Level",
+                "a1a2": "Beginner (A1-A2)",
+                "b1b2": "Intermediate (B1-B2)",
+                "c1c2": "Advanced (C1-C2)"
+            },
+            "targetCareer": {
+                "label": "Target Career Field",
+                "it": "IT & Programming",
+                "health": "Healthcare & Nursing",
+                "engineering": "Engineering",
+                "trades": "Trades & Cookery"
+            }
+        },
+        "roadmap": {
+            "title": "Your Custom Pathway",
+            "step": "Step",
+            "duration": "Duration",
+            "visa": "Visa"
+        },
+        "cta": {
+            "printPdf": "Save Roadmap as PDF",
+            "contact": "Plan this with Serter",
+            "whatsappText": "Hi Serter! I just generated my education pathway on your website and would like to discuss the application process."
+        },
+        "leadModal": {
+            "title": "Get Your Free Custom Roadmap",
+            "subtitle": "Enter your details below, and we'll instantly generate your custom PDF including an exclusive guide on our 'On-ground Support' in Brisbane.",
+            "name": "Full Name",
+            "email": "Email Address",
+            "phone": "Phone Number (WhatsApp)",
+            "submit": "Generate My PDF",
+            "processing": "Generating...",
+            "successTitle": "Success! Check Your Inbox.",
+            "successDesc": "Your custom pathway and our local support guide have been emailed to you."
+        },
+        "pdf": {
+            "supportTitle": "EduBrisbane On-ground Support",
+            "supportSubtitle": "Your Partner From Landing to Graduation",
+            "supportText1": "Arriving safely is just the beginning. At EduBrisbane, we believe international education is a complete lifestyle transition.",
+            "supportText2": "Our Albion HQ is your local checkpoint. We assist with accommodation, TFN setup, bank accounts, and localized job seeking.",
+            "supportText3": "Never feel alone with 24/7 emergency support and a community of successful international students."
+        },
+        "compliance": {
+            "highRiskTitle": "HIGH REJECTION RISK",
+            "legalWarningBackhopping": "⚠️ Under the March 2026 regulations, transitioning from a Subclass 485 Temporary Graduate Visa down to a lower-level Vocational (VET/TAFE) qualification carries a critically high risk of visa refusal.",
+            "action": "Please select a higher education pathway (e.g., Master's Degree) to proceed, or consult with Serter for alternative options."
+        }
+    }
+}
