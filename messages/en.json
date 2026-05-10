@@ -153,12 +153,13 @@
         "contactUs": "Contact Us",
         "legal": "Legal",
         "address": "Albion, Brisbane QLD 4010, Australia",
-        "disclaimer": "We are education consultants. Immigration advice is provided only through our independent, MARA-registered partners.",
+        "disclaimer": "EduBrisbane works in solution partnership with Australian education institutions through accredited platforms.",
         "privacyPolicy": "Privacy Policy",
         "termsOfService": "Terms of Service",
         "rights": "All rights reserved.",
         "abn": "ABN: XX XXX XXX XXX",
-        "qeac": "QEAC Qualified"
+        "qeac": "QEAC Qualified",
+        "icefMember": "Member of ICEF Academy (In-Training)"
     },
     "schoolPages": {
         "languageSchools": {

@@ -3,7 +3,7 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/routing";
 import { motion } from "framer-motion";
-import { MapPin, Mail, Phone, Shield } from "lucide-react";
+import { MapPin, Shield, BadgeCheck } from "lucide-react";
 
 export function Footer() {
     const t = useTranslations("footer");
@@ -139,8 +139,12 @@ export function Footer() {
                             <li className="text-white/40 text-xs">
                                 {t("qeac")} <span className="font-mono ml-1">XXXX</span>
                             </li>
-                            <li className="text-white/40 text-xs">
+                            <li className="text-white/40 text-xs font-semibold tracking-wide">
                                 {t("abn")}
+                            </li>
+                            <li className="inline-flex items-center gap-2 text-white/60 text-xs font-medium">
+                                <BadgeCheck size={14} className="text-accent-gold" />
+                                <span>{t("icefMember")}</span>
                             </li>
                         </ul>
                     </div>

@@ -73,6 +73,16 @@ export default async function AboutPage({ params }: Props) {
                         </p>
                     </div>
                 </div>
+
+                <div className="max-w-4xl mx-auto bg-white rounded-3xl p-8 border-2 border-navy/10 shadow-[6px_6px_0px_0px_rgba(10,25,47,0.08)]">
+                    <h3 className="text-2xl font-extrabold text-navy mb-4">
+                        {locale === "tr" ? "Kurumsal Güven Bilgileri" : "Corporate Trust Signals"}
+                    </h3>
+                    <div className="space-y-3 text-navy/80 font-semibold">
+                        <p>ABN: XX XXX XXX XXX</p>
+                        <p>Member of ICEF Academy (In-Training)</p>
+                    </div>
+                </div>
             </section>
 
             {/* Keeping the detailed LocalAdvantage component here as the main focus */}

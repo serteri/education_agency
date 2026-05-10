@@ -50,6 +50,15 @@ export default async function ContactPage({ params }: Props) {
                     </p>
                 </div>
 
+                <div className="max-w-4xl mx-auto mb-10 bg-navy text-white rounded-3xl p-8 sm:p-10 border-2 border-navy-light shadow-[8px_8px_0px_0px_rgba(10,25,47,0.18)]">
+                    <p className="text-white/80 text-sm font-bold uppercase tracking-[0.2em] mb-3">
+                        {locale === "tr" ? "Head Office" : "Head Office"}
+                    </p>
+                    <h2 className="text-2xl sm:text-3xl font-extrabold leading-tight">
+                        Albion, Brisbane QLD 4010, Australia
+                    </h2>
+                </div>
+
                 <div className="max-w-4xl mx-auto bg-white rounded-[2.5rem] p-6 sm:p-10 shadow-[8px_8px_0px_0px_rgba(10,25,47,0.06)] border-2 border-navy/5 mb-20">
                     <JourneyForm />
                 </div>
