@@ -1,9 +1,10 @@
-import { SignIn } from "@clerk/nextjs";
+import { redirect } from "next/navigation";
 
-export default function Page() {
-    return (
-        <div className="flex items-center justify-center min-h-screen bg-sand-light/50">
-            <SignIn routing="path" path="/en/sign-in" />
-        </div>
-    );
+type Props = {
+    params: Promise<{ locale: string }>;
+};
+
+export default async function Page({ params }: Props) {
+    const { locale } = await params;
+    redirect(`/${locale}/contact`);
 }

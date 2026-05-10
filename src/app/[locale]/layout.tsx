@@ -7,8 +7,6 @@ import { routing } from "@/i18n/routing";
 import { WhatsAppButton } from "@/components/WhatsAppButton";
 import { CompareProvider } from "@/context/CompareContext";
 import { CompareBar } from "@/components/CompareBar";
-import { ClerkProvider } from "@clerk/nextjs";
-import { trTR, enUS } from "@clerk/localizations";
 import "../globals.css";
 
 const geistSans = Geist({
@@ -61,23 +59,20 @@ export default async function LocaleLayout({
     }
 
     const messages = await getMessages();
-    const clerkLocale = locale === 'tr' ? trTR : enUS;
 
     return (
-        <ClerkProvider localization={clerkLocale}>
-            <html lang={locale} className="scroll-smooth">
-                <body
-                    className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}
-                >
-                    <NextIntlClientProvider messages={messages}>
-                        <CompareProvider>
-                            {children}
-                            <WhatsAppButton />
-                            <CompareBar />
-                        </CompareProvider>
-                    </NextIntlClientProvider>
-                </body>
-            </html>
-        </ClerkProvider>
+        <html lang={locale} className="scroll-smooth">
+            <body
+                className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}
+            >
+                <NextIntlClientProvider messages={messages}>
+                    <CompareProvider>
+                        {children}
+                        <WhatsAppButton />
+                        <CompareBar />
+                    </CompareProvider>
+                </NextIntlClientProvider>
+            </body>
+        </html>
     );
 }
