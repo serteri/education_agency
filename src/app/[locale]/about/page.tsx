@@ -79,7 +79,7 @@ export default async function AboutPage({ params }: Props) {
                         {locale === "tr" ? "Kurumsal Güven Bilgileri" : "Corporate Trust Signals"}
                     </h3>
                     <div className="space-y-3 text-navy/80 font-semibold">
-                        <p>ABN: XX XXX XXX XXX</p>
+                        <p>ABN: 11791821763</p>
                         <p>Member of ICEF Academy (In-Training)</p>
                     </div>
                 </div>
