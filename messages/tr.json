@@ -10,6 +10,7 @@
     "contact": "İletişim",
     "guides": "Rehberler",
     "tools": "Araçlar",
+    "visaSuccess": "Vize Başarı",
     "compare": "Karşılaştır",
     "budgetPlanner": "Bütçe Hesaplayıcı",
     "pathwayPlanner": "Eğitim Yol Haritası",
@@ -432,6 +433,30 @@
     "mission": {
       "title": "Misyonumuz",
       "description": "Her öğrencinin hedeflerine uygun, şeffaf ve objektif bir danışmanlık sunarken, kayıttan gerçek hayata entegrasyona uzanan güçlü bir yerel destek ağı sağlamak."
+    }
+  },
+  "compare": {
+    "title": "Okulları Karşılaştır",
+    "subtitle": "Ücretleri, sıralamaları ve yerel içgörüleri karşılaştırarak hedeflerinize en uygun kurumu bulun.",
+    "button": "Karşılaştır",
+    "add": "Karşılaştırmaya Ekle",
+    "added": "Eklendi",
+    "compareNow": "Şimdi Karşılaştır",
+    "maxReached": "En fazla 3 okul seçebilirsiniz",
+    "clearAll": "Tümünü Temizle",
+    "emptyState": "Henüz karşılaştırmak için okul seçmediniz. En fazla 3 okul eklemek için katalogları inceleyin.",
+    "browseUniversities": "Üniversiteleri İncele",
+    "browseTAFE": "TAFE Kolejlerini İncele",
+    "browseLanguage": "Dil Okullarını İncele",
+    "remove": "Kaldır",
+    "table": {
+      "ranking": "Dünya Sıralaması",
+      "distance": "Mesafe / Ulaşım",
+      "assessmentLevel": "Değerlendirme Seviyesi",
+      "tuitionFee": "Tahmini Eğitim Ücreti",
+      "featuredCourses": "Öne Çıkan Programlar",
+      "localInsight": "Serter'in Yorumu",
+      "entryReqs": "Başvuru Şartları"
     }
   },
   "budgetPlanner": {
